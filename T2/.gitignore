@@ -1,0 +1,7 @@
+__pycache__/
+frontend/sprites/
+frontend/sonidos/
+frontend/__pycache__/
+backend/__pycache__/
+puntajes.txt
+backend/aparicion_zombies.py

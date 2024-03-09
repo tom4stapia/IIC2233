@@ -1,0 +1,11 @@
+{
+    "HOST": "localhost",
+    "PORT": 50000,
+    "RUTA_VENTANA_INICIO": ["frontend", "ui_files", "ventana_inicio.ui"],
+    "RUTA_VENTANA_ESPERA": ["frontend", "ui_files", "ventana_espera.ui"],
+    "RUTA_VENTANA_JUEGO": ["frontend", "ui_files", "ventana_juego.ui"],
+    "RUTA_VENTANA_FINAL": ["frontend", "ui_files", "ventana_final.ui"],
+    "CUENTA_REGRESIVA_INICIO": 10,
+    "CUENTA_REGRESIVA_RONDA": 10,
+    "UN SEGUNDO": 1000
+}
